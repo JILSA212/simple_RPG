@@ -1,0 +1,21 @@
+.dialogueAreaComponent
+{
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 20vh;
+    width: 90%;
+    background-color: white;
+    margin-left: 5%;
+    z-index: 1;
+    position: relative;
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dialogue
+{
+    font-size: larger;
+    font-weight: 400;
+}

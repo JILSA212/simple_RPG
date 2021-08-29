@@ -1,0 +1,159 @@
+{
+    "0.": {
+        "desc": "Hey there, you seem like a perfect person to join Casual Sublime Exciting Group called CSE. And remember that everything shown here is fantasy, any resemblance is purely coincidental",
+        "options": [{"1.": "I understand, let's start this."},
+                    {"2.": "I don't like fantasy games -_- "}],
+        "background_image": "https://i0.wp.com/windowscustomization.com/wp-content/uploads/2019/01/Fantasy-World.gif?resize=600%2C354&quality=80&strip=all&ssl=1"
+    },
+
+    "0.1.": {
+        "desc": "That's awesome, glad to have you on board. We have two departments in CSE, which one would you like to join?",
+        "options": [{"1.": "I want to join the department-1 who is going to have a party today."},
+                    {"2.": "I want to join the department-2 who are going to work on a technical project"},
+                    {"3.": "I don't like any of them."}],
+        "background_image": "https://i.ytimg.com/vi/rjtexK5fU20/maxresdefault.jpg"
+    },
+
+    "0.2.": {
+        "terminate": "lost",
+        "losing_message": "Jeez, you're so boring!!!"
+    },
+
+    "0.1.1.": {
+        "desc": "That's great. Today is Captain Samaksh's birthday so they are having party. Captain Samaksh has declared that he would treat everyone the best puff from Jigabhai. You may talk to him directly.",
+        "options": [{"1.": "Sure, let me wish him too"},
+                    {"2.": "I don't want to talk to him"}],
+        "background_image": "https://i.pinimg.com/originals/f8/32/df/f832df2d24a72832d6a3a02f577b47d2.jpg"
+    },
+ 
+    "0.1.1.1.": {
+        "desc": "Samaksh : Thank you so much for your warm wishes. We're going to eat Jigabhai's puff, would you like to join us too? And since it's your first day here, we can celebrate that as well.",
+        "options": [{"1.": "Sure, let's celebrate. I'll be so much fun."},
+                    {"2.": "No, I don't want to share my celebration with you."}],
+        "image": "https://drive.google.com/uc?export=view&id=1f3QQCFyxK13e9_pCImm8wqDUDC48x1gh",
+        "position": "bottom center",
+        "image_height": "80%"
+    },
+
+    "0.1.1.1.1.": {
+        "desc": "Samaksh : Oh no...Jigabhai is not here. We can neither see his shop. I was so excited to treat you all. Where can he be? :(",
+        "options": [{"1.": "Me too...But hey, don't give up, let's find him."},
+                    {"2.": "Too bad, can't we eat something else?"}],
+        "image": "https://drive.google.com/uc?export=view&id=1f3QQCFyxK13e9_pCImm8wqDUDC48x1gh",
+        "position": "bottom right",
+        "image_height": "120%",
+        "image_offset_bottom": "-5%",
+        "image_offset_right": "5%"
+    },
+
+    "0.1.1.1.1.1.": {
+        "desc": "Samaksh : I like your ethusiasm. Let's find Jigabhai.",
+        "options": [{"1.": "Alright, let's ask around, maybe someone saw him."},
+                    {"2.": "Great, you ask around, I'm sitting here. I need to check my social media"}],
+        "image": "https://drive.google.com/uc?export=view&id=1f3QQCFyxK13e9_pCImm8wqDUDC48x1gh",
+        "position": "bottom left",
+        "image_height": "80%"
+    },
+
+    "0.1.1.1.1.1.1.": {
+        "desc": "Shivani : Hello, seems like you're a good person, will you please help me? I need your help.",
+        "options": [{"1.": "Sure, what's the matter?"},
+                    {"2.": "No, I'm a very bad person, I can't help you."}],
+        "image": "https://drive.google.com/uc?export=view&id=1QT2PLt7Rc3wUsB7ammfGHdPURDqD6lBq",
+        "position": "bottom right",
+        "image_height": "80%"
+    },
+
+    "0.1.1.1.1.1.2.": {
+        "desc": "Samaksh : Everyone works here as a team and help others. You can't slack off like this, come on you're now a member of CSE1, show some energy...",
+        "options": [{"1.": "Sigh....alright"},
+                    {"2.": "You motivated me, let's do it..."},
+                    {"3.": "I don't want to do that..."}],
+        "image": "https://drive.google.com/uc?export=view&id=1f3QQCFyxK13e9_pCImm8wqDUDC48x1gh",
+        "position": "bottom left",
+        "image_height": "100%"
+    },
+
+    "0.1.1.1.1.2.": {
+        "desc": "Samaksh : No, I want Jigabhai's puff only and I will go to end of the world to get it and treat you all. Let's find him.",
+        "options": [{"1.": "Just how addicted are you, man!"},
+                    {"2.": "Good luck finding him because I'm going to sleep, who works so damn hard for just a puff?"}],
+        "image": "https://drive.google.com/uc?export=view&id=1f3QQCFyxK13e9_pCImm8wqDUDC48x1gh",
+        "position": "top right",
+        "image_height": "100%"
+    },
+
+    "0.1.1.1.2.": {
+        "desc": "Samaksh : Listen brat...I'm warning you for the last time. I AM THE CAPTAIN HERE. Do you still want to mess with me?",
+        "options": [{"1.": "Alright, bring it on. I'll show you who's the boss here..."},
+                    {"2.": "No, I don't want to mess with you so I'll just wish you 'Happy Birthday'"}],
+        "image": "https://drive.google.com/uc?export=view&id=1f3QQCFyxK13e9_pCImm8wqDUDC48x1gh",
+        "position": "top center",
+        "image_height": "130%"
+    },
+
+    "0.1.1.2.": {
+        "desc": "Samaksh : Well, sorry but you don't get to choose that. I'm captain of CSE1 so I'll meet new agents anyways. And since it's my responsibility let me ask you, Will you join us for party?",
+        "options": [{"1.": "Hmph...Fine"},
+                    {"2.": "No, I don't like you."}],
+        "background_image": "https://cdn.shopify.com/s/files/1/0257/6718/2416/files/Party-Background-green-with-presents.jpg?v=1595051600",
+        "image": "https://drive.google.com/uc?export=view&id=1f3QQCFyxK13e9_pCImm8wqDUDC48x1gh",
+        "position": "bottom center",
+        "image_height": "80%"
+    },
+
+    "0.1.1.2.1.": {
+        "desc": "Samaksh : Great, let's go to Jigabhai's shop and I'll treat you the tastiest puff around here",
+        "options": [{"1.": "At least I'm getting something tasty"},
+                    {"2.": "I don't want to eat anything"}],
+        "image": "https://drive.google.com/uc?export=view&id=1f3QQCFyxK13e9_pCImm8wqDUDC48x1gh",
+        "position": "bottom left",
+        "image_height": "80%"
+    },
+
+    "0.1.1.2.2.": {
+        "route": "0.1.1.1.2."
+    },
+
+    "0.1.2.": {
+        "desc": "Great choice. I see you're very hard working person. Let's get straight to work then. There is a person who wants you to build a software but only Janushi and Kinjal know where to find him. What would you like to do?",
+        "options": [{"1.": "I will ask Janushi"},
+                    {"2.": "I will ask Kinjal"},
+                    {"3.": "I will find him by myself"}],
+        "background_image": "https://wallpaperaccess.com/full/4372948.jpg",
+        "background_size": "contain"
+    },
+
+    "0.1.2.1.": {
+        "desc": "Janushi : Hey there. I'm so glad you came to ask me but I don't know who that person is. I just know that currently he may be at Baroda, Anand or Bharuch. Please find him.",
+        "options": [{"1.": "Sure, let's go to Baroda."},
+                    {"2.": "Sure, let's go to Anand"},
+                    {"3.": "Sure, let's go to Bharuch"}],
+        "image": "https://drive.google.com/uc?export=view&id=1FK72nyKvfNYB-iiwCOq9kKXmYQX5ZEAk",
+        "position": "bottom left",
+        "image_height": "80%"
+    },
+
+    "0.1.2.2.": {
+        "desc": "Kinjal : Hiiiii...We're fun loving CSE2 department. Oh..you're here to ask for that person!? Okay, we never got to know who he is but I think you can find him at Goa, Bangalore or Changa...Good luck.",
+        "options": [{"1.": "Sure, let's go to Goa."},
+                    {"2.": "Sure, let's go to Bangalore"},
+                    {"3.": "Sure, let's go to Changa"}],   
+        "image": "https://drive.google.com/uc?export=view&id=1MypsorrblpPR_Ymb-WJw28ERFBt2T1DF",
+        "position": "bottom right",
+        "image_height": "80%"
+    },
+
+    "0.1.2.3.": {
+        "desc": "You seem to be a lone wolf. You can go by yourself. But remember, here, everyone works in a team. It's alright to ask for help.",
+        "options": [{"1.": "I will take the first flight I find"},
+                    {"2.": "I will take the first train I find"},
+                    {"3.": "I will take the first bus I find"}],
+        "background_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8NptxB7JAbX_bGch-R-h9wV99Xy1a--w2AQ&usqp=CAU"
+    },
+
+    "0.1.3.": {
+        "terminate": "lost",
+        "losing_message": "Just how rude can you be!"
+    }
+}

@@ -1,0 +1,14 @@
+.App {
+  font-family: 'Mulish Medium';
+  text-align: center;
+  padding: 1% 10%;
+  background-color: aliceblue;
+  color: navy;
+}
+
+.storyHeading {
+  height: 7vh;
+  width: 100%;
+  font-size: xx-large;
+  font-weight: 600;
+}

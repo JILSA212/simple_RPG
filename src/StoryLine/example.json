@@ -1,0 +1,39 @@
+{
+    "0." : {
+        "desc" : "This is 0th description",
+        "options" : [{"1." : "First choice"},
+                    {"2." : "Second choice"},
+                    {"3." : "Third choice"},
+                    {"4." : "Fourth choice"}],
+        "button_text" : "Next",
+        "image": "https://drive.google.com/uc?export=view&id=1Aw2DnT3jvRxqXlxNn_e-7nkO0Qn4ovuF",
+        "image_height": "80%",
+        "position": "bottom left",
+        "background_image": "https://images.unsplash.com/photo-1579546929518-9e396f3cc809?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80",
+        "background_color": "#eeeeee"
+    },
+
+    "0.2." : {
+        "route": "0.1.2."
+    },
+
+    "0.1.1." : {
+        "terminate": "won"
+    },
+
+    "0.1." : {
+        "desc" : "This is 01th description",
+        "options" : [{"1." : "0 First choice"},
+                    {"2." : "0 Second choice"},
+                    {"3." : "0 Third choice"}],
+        "button_text" : "Next"
+    },
+
+    "0.1.2." : {
+        "desc" : "This is 012th description",
+        "options" : [{"1." : "02 First choice"},
+                    {"2." : "02 Second choice"},
+                    {"3." : "02 Third choice"}],
+        "button_text" : "Next"
+    }
+}

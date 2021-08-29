@@ -1,0 +1,14 @@
+.screenComponent {
+    /* background-color: #00bfff; */
+    padding-bottom: 1%;
+    border-radius: 15px;
+}
+
+.screenArea {
+    height: 45vh;
+    width: 100%;
+    /* background-color: cyan; */
+    position: relative;
+    display: flex;
+    overflow: hidden;
+}

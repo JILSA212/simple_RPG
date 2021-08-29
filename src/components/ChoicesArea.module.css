@@ -1,0 +1,23 @@
+.choicesAreaComponent
+{
+    /* height: 18vh; */
+    width: 100%;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-top: 1%;
+    font-size: larger;
+    line-height: 4vh;
+    padding-bottom: 0.5%;
+    /* overflow: auto; */
+}
+
+.choicesButton
+{
+    height: 5vh;
+    width: 25%;
+    background-color: #00bfff;
+    border-radius: 15px;
+    font-family: 'Mulish Medium';
+    font-size: medium;
+}
