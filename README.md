@@ -60,6 +60,11 @@ Except for story_title, all other attributes can be overwritten in story.json fi
 
 It is important to notice that background_image will have highest priority over background_color.
 
+There are two major options for ease of use.
+You can add "route" as value to rediract to another quesion.
+You need to use "terminate" value to "won" or "lost" to signify the end of the game.
+You need to proivde "winning_message" or "loosing_message" according to need.
+
 Future Enhancement options:
 <ul>
     <li> Add more options for fonts </li>
