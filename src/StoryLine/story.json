@@ -98,8 +98,8 @@
         "options": [{"1.": "Yes, thank you"}],
         "image": "https://drive.google.com/uc?export=view&id=1Aw2DnT3jvRxqXlxNn_e-7nkO0Qn4ovuF",
         "position": "top right",
-        "image_offset_top": "15%",
-        "image_height": "85%",
+        "image_offset_top": "2%",
+        "image_height": "105%",
         "background_image": "https://images.pexels.com/photos/2387532/pexels-photo-2387532.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
     },
 
