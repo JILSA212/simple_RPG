@@ -64,6 +64,7 @@ There are two major options for ease of use.
 You can add "route" as value to rediract to another quesion.
 You need to use "terminate" value to "won" or "lost" to signify the end of the game.
 You need to proivde "winning_message" or "loosing_message" according to need.
+After terminated option, the game will be reset and start from beginning again.
 
 Future Enhancement options:
 <ul>
