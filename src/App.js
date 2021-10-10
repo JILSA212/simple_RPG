@@ -35,12 +35,7 @@ function App() {
   }
 
   details["button_text"] = currentData["button_text"] === undefined ? details["button_text"] : currentData["button_text"];
-  details["animation"] = currentData["animation"] === undefined ? details["animation"] : currentData["animation"];
-  details["duration"] = currentData["duration"] === undefined ? details["duration"] : currentData["duration"];
-  details["delay"] = currentData["delay"] === undefined ? details["delay"] : currentData["delay"];
-  details["easing"] = currentData["easing"] === undefined ? details["easing"] : currentData["easing"];
   details["position"] = currentData["position"] === undefined ? details["position"] : currentData["position"];
-  details["text_color"] = currentData["text_color"] === undefined ? details["text_color"] : currentData["text_color"];
   details["background_color"] = currentData["background_color"] === undefined ? details["background_color"] : currentData["background_color"];
   details["image_height"] = currentData["image_height"] === undefined ? details["image_height"] : currentData["image_height"];
   // details["image_width"] = currentData["image_width"] === undefined ? details["image_width"] : currentData["image_width"];

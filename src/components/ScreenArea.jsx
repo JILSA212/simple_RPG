@@ -2,6 +2,7 @@ import React from 'react'
 import DialogueArea from './DialogueArea'
 import '../animations.css'
 import styles from './ScreenArea.module.css'
+import positions from './positions.json';
 
 function ScreenArea({data, details}) {
     var sceneImage = "";
@@ -14,7 +15,7 @@ function ScreenArea({data, details}) {
     {
         screenStyle = {"backgroundImage": "url("+data["background_image"]+")", "backgroundSize": details["background_size"]};
     }
-    const divImagePosition = {...details["image_position"][details["position"]]};
+    const divImagePosition = {...positions["image_position"][details["position"]]};
     var imageStyle = {"height":details["image_height"], zIndex: "0"};
     imageStyle["marginTop"] = details["image_offset_top"];
     imageStyle["marginLeft"] = details["image_offset_left"];
